@@ -62,5 +62,13 @@ Apache server restarting...
 [Sat Oct 01 13:01:39.482365 2022] [mpm_winnt:notice] [pid 6524:tid 516] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
 [Sat Oct 01 13:01:39.482365 2022] [core:notice] [pid 6524:tid 516] AH00094: Command line: 'C:\\laragon\\www\\napalanproj\\laragon\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/laragon/www/napalanproj/laragon/bin/apache/httpd-2.4.47-win64-VS16'
 [Sat Oct 01 13:01:39.537153 2022] [mpm_winnt:notice] [pid 6524:tid 516] AH00418: Parent: Created child process 9708
-[Sat Oct 01 13:01:40.430288 2022] [mpm_winnt:notice] [pid 9708:tid 600] AH00354: Child: Starting 64 worker threads.
+Apache server interrupted...
+022] [mpm_winnt:notice] [pid 9708:tid 600] AH00354: Child: Starting 64 worker threads.
 [Sat Oct 01 13:01:41.326750 2022] [mpm_winnt:notice] [pid 10476:tid 644] AH00364: Child: All worker threads have exited.
+[Sat Oct 01 14:19:06.068106 2022] [mpm_winnt:notice] [pid 6524:tid 516] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 01 14:19:08.097905 2022] [mpm_winnt:notice] [pid 9708:tid 600] AH00364: Child: All worker threads have exited.
+[Sat Oct 01 14:19:10.483215 2022] [core:warn] [pid 5960:tid 540] AH00098: pid file C:/laragon/www/napalanproj/laragon/bin/apache/httpd-2.4.47-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 01 14:19:10.554801 2022] [mpm_winnt:notice] [pid 5960:tid 540] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 configured -- resuming normal operations
+[Sat Oct 01 14:19:10.554801 2022] [mpm_winnt:notice] [pid 5960:tid 540] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Sat Oct 01 14:19:10.554801 2022] [core:notice] [pid 5960:tid 540] AH00094: Command line: 'C:\\laragon\\www\\napalanproj\\laragon\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/laragon/www/napalanproj/laragon/bin/apache/httpd-2.4.47-win64-VS16'
+[Sat Oct 01 14:19:10.598813 2022] [mpm_winnt:notice] [pid 5960:tid 540] AH00418: Parent: Created child process 10656
