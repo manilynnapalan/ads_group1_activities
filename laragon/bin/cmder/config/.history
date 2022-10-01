@@ -11,3 +11,25 @@ git branch -M master
 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
 git token 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
 git push -u origin master
+git commit -m "Uploaded Activity 1 uploaded by"
+ git branch -M master
+ git push origin https://github.com/manilynnapalan/ads_group1_activities.git
+ git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
+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
+git token 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
+git init
+ git add .
+git config --global user.email "napalanmanilyn73@gmail.com"
+git config --global user.name "manilynnapalan"
+ git commit -m "Uploaded Activity 1 uploaded by "
+git origin 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
+git config --global user.token "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"
+git add origin https://github.com/manilynnapalan/ads_group1_activities.git
+ git config --global user.origin "https://github.com/manilynnapalan/ads_group1_activities.git"
+git push --set-upstream origin master https://github.com/manilynnapalan/ads_group1_activities.git
+ git branch -M master
+git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
+ git push -u origin master
+git push
+git push --set-upstream origin master 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
+git push -u origin master
