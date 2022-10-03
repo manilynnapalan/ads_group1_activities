@@ -100,3 +100,29 @@ git config --global user.name "manilynnapalan"
 git branch -M master
  git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
 git push -u origin master
+ git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
+git init
+git add .
+ git config --global user.email "napalanmanilyn"
+git config --global user.name "manilynnapalan"
+git commit -m "Uploaded Activity 1 uploaded by "
+git branch -M master
+git remote add origin
+git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
+git push --set-upstream origin master https://github.com/manilynnapalan/ads_group1_activities.git
+git push branch -M master
+git push -u origin master 
+git push
+ git push --set-upstream origin master
+ git push --set-upstream origin master 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
+git push -u origin master
+php artisan make:controller MyfirstController
+php artisan make:migration create_zodiacsigns_table --
+intall PHP version ">= 8.1.0"
+intall PHP version ">= 8.1.0"
+php artisan make:migration create_zodiacsigns_table --
+php artisan make:migration create_zodiacsigns_table --create=zodiacsigns
+php artisan make:model Flight
+php artisan make:migration create_zodiacsigns_table --
+php artisan make:migration create_zodiacsigns_table --create=zodiacsigns
+php artisan make:migration create_zodiacsigns_table --
