@@ -126,3 +126,14 @@ php artisan make:model Flight
 php artisan make:migration create_zodiacsigns_table --
 php artisan make:migration create_zodiacsigns_table --create=zodiacsigns
 php artisan make:migration create_zodiacsigns_table --
+php artisan make:migration create_zodiacsigns_table --
+git init
+git add .
+git config --global user.email
+git config --global user.name
+git commit -m
+ git commit -m "Uploaded Activity 1 uploaded by "
+ git branch -M master
+git remote add origin
+git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
+git remote add origin https://github.com/manilynnapalan/ads_group1_activity.git
