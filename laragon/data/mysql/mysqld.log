@@ -1500,3 +1500,41 @@ Version: '5.7.33'  socket: ''  port: 3306  MySQL Community Server (GPL)
 2022-10-03T07:34:59.209977Z 0 [Note] Event Scheduler: Loaded 0 events
 2022-10-03T07:34:59.210439Z 0 [Note] C:\laragon\www\napalanproj\laragon\bin\mysql\mysql-5.7.33-winx64\bin\mysqld: ready for connections.
 Version: '5.7.33'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2022-10-04T06:20:47.714621Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2022-10-04T06:20:47.718418Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2022-10-04T06:20:47.718439Z 0 [Note] C:\laragon\www\napalanproj\laragon\bin\mysql\mysql-5.7.33-winx64\bin\mysqld (mysqld 5.7.33) starting as process 2836 ...
+2022-10-04T06:20:47.765667Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-10-04T06:20:47.766109Z 0 [Note] InnoDB: Uses event mutexes
+2022-10-04T06:20:47.766371Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2022-10-04T06:20:47.766789Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2022-10-04T06:20:47.770650Z 0 [Note] InnoDB: Number of pools: 1
+2022-10-04T06:20:47.773369Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2022-10-04T06:20:47.777268Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-10-04T06:20:47.785461Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-10-04T06:20:47.827535Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-10-04T06:20:47.830588Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2747460
+2022-10-04T06:20:47.831220Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2747469
+2022-10-04T06:20:47.832144Z 0 [Note] InnoDB: Database was not shutdown normally!
+2022-10-04T06:20:47.832641Z 0 [Note] InnoDB: Starting crash recovery.
+2022-10-04T06:20:48.035025Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-10-04T06:20:48.035620Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-10-04T06:20:48.036798Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-10-04T06:20:48.060250Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2022-10-04T06:20:48.062366Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2022-10-04T06:20:48.062870Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2022-10-04T06:20:48.063671Z 0 [Note] InnoDB: Waiting for purge to start
+2022-10-04T06:20:48.124848Z 0 [Note] InnoDB: 5.7.33 started; log sequence number 2747469
+2022-10-04T06:20:48.125997Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\laragon\www\napalanproj\laragon\data\mysql\ib_buffer_pool
+2022-10-04T06:20:48.126553Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2022-10-04T06:20:48.150314Z 0 [Note] InnoDB: Buffer pool(s) load completed at 221004 14:20:48
+2022-10-04T06:20:48.161546Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2022-10-04T06:20:48.162208Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2022-10-04T06:20:48.167323Z 0 [Warning] CA certificate ca.pem is self signed.
+2022-10-04T06:20:48.168750Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2022-10-04T06:20:48.170249Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2022-10-04T06:20:48.170949Z 0 [Note] IPv6 is available.
+2022-10-04T06:20:48.171231Z 0 [Note]   - '::' resolves to '::';
+2022-10-04T06:20:48.171562Z 0 [Note] Server socket created on IP: '::'.
+2022-10-04T06:20:48.314469Z 0 [Note] Event Scheduler: Loaded 0 events
+2022-10-04T06:20:48.315004Z 0 [Note] C:\laragon\www\napalanproj\laragon\bin\mysql\mysql-5.7.33-winx64\bin\mysqld: ready for connections.
+Version: '5.7.33'  socket: ''  port: 3306  MySQL Community Server (GPL)
