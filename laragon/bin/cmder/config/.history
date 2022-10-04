@@ -206,3 +206,75 @@ git remote -u origin master
 git push -u origin master
 git remote -v
 git pull
+git remote add origin https://github.com/napalanmanilyn/ads_group1_activities.git
+git push
+git push -v origin master
+git init
+ git config --global user.email "napalanmanilyn73@gmail.com"
+git config --global user.name "manilynnapalan"
+git commit -m "Uploaded Activity 1 uploaded by "
+ git remote add origin https://github.com/manilynnapalan/ads_group1_activity.git
+git remote -v
+ git config --global user.email "manilynnapalan86@gmail.com"
+ git config --global user.name "napalanmanilyn"
+git remote add origin https://github.com/napalanmanilyn/ads_group1_activities.git
+ git config --global user.email "napalanmanilyn73@gmail.com"
+ git remote add origin https://github.com/manilynnapalan/ads_group1_activity.git
+ git config --global user.name "manilynnapalan"
+ git branch -M master
+git push -v origin master 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
+git push -v
+ git push --set-upstream origin master 
+git push --help
+git pull -v origin master
+git branch --set-upstream-to origin
+git push -u
+git push -v origin master
+git status
+git commit -m
+ git commit -m "Uploaded Activity 1 uploaded by "
+git commit -m "napalanproj"
+git remote -u origin master
+git remote -v
+git pull
+git init
+git config --global user.email "napalanmanilyn73@gmail.com"
+ git config --global user.name
+git commit -m "Uploaded Activity 1 uploaded by "
+ git branch -M master
+git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
+git remote set-url origin
+git remote set-url origin https://github.com/manilynnapalan/ads_group1_activities.git
+ git push -u origin master
+git checkout -b Activity2
+ git add .
+ git commit -m "Uploaded Activity 2 by"
+ git branch -M master
+ git commit -m "Uploaded Activity 2 by manilynnapalan"
+git push https://github.com/manilynnapalan/ads_group1_activities.git
+ git push --set-upstream origin master
+git chec2
+git checkout -b Activity 2
+git commit -m "Uploaded Activity 2 by"
+git push -u origin master
+ git push --set-upstream origin master https://github.com/manilynnapalan/ads_group1_activities.git
+ git push --set-upstream origin master
+git commit -m "Upload Activity 3 by"
+ git branch -M master
+ git commit -m "Uploaded Activity 1 uploaded by Napalan"
+git checkout -b Activity 3
+git commit -m "Uploaded Activity 3 by Napalan"
+git commit -m "Uploaded Activity 4 by Napalan"
+git checkout -b Activity 4
+git branch -M master
+git checkout -b Activity 5
+git commit -m "Uploaded Activity 5 by Napalan"
+ git push --set-upstream origin master
+git checkout -b Activity 6
+git commit -m "Uploaded Activity 6 by Napalan"
+git checkout -b Activity 7
+git add .
+git commit -m "Uploaded Activity 7 by Napalan"
+git push
+git push --set-upstream origin master
+git init

@@ -641,3 +641,17 @@ Wrapper C:/laragon/www/napalanproj/laragon/bin/php/php-8.1.10-Win32-vs16-x64/php
 [Mon Oct 03 15:37:28.288199 2022] [core:notice] [pid 4928:tid 552] AH00094: Command line: 'C:\\laragon\\www\\napalanproj\\laragon\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/laragon/www/napalanproj/laragon/bin/apache/httpd-2.4.47-win64-VS16'
 [Mon Oct 03 15:37:28.310688 2022] [mpm_winnt:notice] [pid 4928:tid 552] AH00418: Parent: Created child process 8268
 [Mon Oct 03 15:37:28.854974 2022] [mpm_winnt:notice] [pid 8268:tid 620] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 04 14:20:48.240220 2022] [core:warn] [pid 10952:tid 552] AH00098: pid file C:/laragon/www/napalanproj/laragon/bin/apache/httpd-2.4.47-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 04 14:20:48.371181 2022] [mpm_winnt:notice] [pid 10952:tid 552] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1a PHP/7.3.2 configured -- resuming normal operations
+[Tue Oct 04 14:20:48.371181 2022] [mpm_winnt:notice] [pid 10952:tid 552] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Tue Oct 04 14:20:48.371181 2022] [core:notice] [pid 10952:tid 552] AH00094: Command line: 'C:\\laragon\\www\\napalanproj\\laragon\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/laragon/www/napalanproj/laragon/bin/apache/httpd-2.4.47-win64-VS16'
+[Tue Oct 04 14:20:48.401050 2022] [mpm_winnt:notice] [pid 10952:tid 552] AH00418: Parent: Created child process 7280
+Apache server restarting...
+2022] [mpm_winnt:notice] [pid 7280:tid 620] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 04 14:20:50.119833 2022] [mpm_winnt:notice] [pid 10952:tid 552] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Oct 04 14:20:50.190492 2022] [mpm_winnt:notice] [pid 10952:tid 552] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1a PHP/7.3.2 configured -- resuming normal operations
+[Tue Oct 04 14:20:50.190492 2022] [mpm_winnt:notice] [pid 10952:tid 552] AH00456: Apache Lounge VS16 Server built: Apr 24 2021 11:08:47
+[Tue Oct 04 14:20:50.190492 2022] [core:notice] [pid 10952:tid 552] AH00094: Command line: 'C:\\laragon\\www\\napalanproj\\laragon\\bin\\apache\\httpd-2.4.47-win64-VS16\\bin\\httpd -d C:/laragon/www/napalanproj/laragon/bin/apache/httpd-2.4.47-win64-VS16'
+[Tue Oct 04 14:20:50.217439 2022] [mpm_winnt:notice] [pid 10952:tid 552] AH00418: Parent: Created child process 2416
+[Tue Oct 04 14:20:51.120206 2022] [mpm_winnt:notice] [pid 2416:tid 628] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 04 14:20:52.132088 2022] [mpm_winnt:notice] [pid 7280:tid 620] AH00364: Child: All worker threads have exited.
