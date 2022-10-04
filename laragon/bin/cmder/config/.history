@@ -278,3 +278,51 @@ git commit -m "Uploaded Activity 7 by Napalan"
 git push
 git push --set-upstream origin master
 git init
+ git commit -m "Uploaded Activity 2 by"
+ git branch -M master
+ git commit -m "Uploaded Activity 2 by manilynnapalan"
+git push https://github.com/manilynnapalan/ads_group1_activities.git
+ git push --set-upstream origin master
+git chec2
+git commit -m "Uploaded Activity 2 by"
+ git push --set-upstream origin master https://github.com/manilynnapalan/ads_group1_activities.git
+ git push --set-upstream origin master
+git commit -m "Upload Activity 3 by"
+ git branch -M master
+ git commit -m "Uploaded Activity 1 uploaded by Napalan"
+git checkout -b Activity 3
+git commit -m "Uploaded Activity 3 by Napalan"
+git commit -m "Uploaded Activity 4 by Napalan"
+git checkout -b Activity 4
+git checkout -b Activity 5
+git commit -m "Uploaded Activity 5 by Napalan"
+ git push --set-upstream origin master
+git checkout -b Activity 6
+git commit -m "Uploaded Activity 6 by Napalan"
+git checkout -b Activity 7
+git commit -m "Uploaded Activity 7 by Napalan"
+git push --set-upstream origin master
+git config --global user.email "napalanmanilyn73@gmail.com
+git config --global user.email "napalanmanilyn73@gmail.com"
+git config --global user.name "manilynnapalan"
+git commit -m "Uploaded Activity 1 uploaded by Napalan"
+git remote add origin https://github.com/manilynnapalan/ads_group1_activities.git
+git remote set-url origin https://github.com/manilynnapalan/ads_group1_activities.git
+git push -u origin master
+ git push --set-upstream origin Activity2
+ git push --set-upstream origin Activity2
+git init
+git branch -M master
+git push 
+git status
+git checkout -b Activity 2
+git branch -M Activity-2
+ git commit -m "Uploaded Activity 2 by Napalan"
+git push --set-upstream origin Activity-2
+git commit -m "Uploaded Activity-2 by Napalan"
+git checkout -b Activity2
+git add .
+git commit -m "Uploaded Activity2 by Napalan"
+git branch -M Activity2
+git push
+git push --set-upstream origin Activity2
